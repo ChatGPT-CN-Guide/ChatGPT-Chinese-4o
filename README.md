@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内直连使用指南（支持GPT4o绘画，无需翻墙）【4月最新】
+# ChatGPT 中文版：国内直连使用指南（支持GPT4o绘画，无需翻墙）【6月最新】
 
-> **更新时间： 2025/05/05**  
+> **更新时间： 2025/05/28**  
 
 想在国内流畅使用 ChatGPT，但又被网络限制和英文界面所困扰？**ChatGPT 中文版** 正是为解决这些痛点而生！本文将为你全面解析 **ChatGPT 中文版** 的概念、优势，并提供选择和使用指南，推荐稳定可靠的服务，让你轻松上手，无需翻墙也能享受 AI 带来的便利。
 
@@ -15,7 +15,7 @@
 **快速开始 - 推荐的 ChatGPT 中文版服务：**
 
 *   **流畅易用：** [gptcat.cc](https://gptcat.cc) (界面友好，支持 GPT-4o 语音)
-*   **功能全面：** [snakegpt.chat](https://snakegpt.chat) (稳定可靠，集成绘图)
+*   **功能全面：** [snakegpt.com.cn](https://snakegpt.com.cn) (稳定可靠，集成绘图)
 
 ---
 
@@ -93,7 +93,7 @@
 | **平台名称/地址**    | **核心模型**              | **免费额度** | **中文优化** | **特色功能**                             |
 | :----------------- | :------------------------ | :----------- | :----------- | :--------------------------------------- |
 | **[gptcat.cc](https://gptcat.cc)** | GPT-4, GPT-4o, Claude等 | 有           | ⭐⭐⭐⭐⭐    | 界面还原度高，支持 GPT-4o 实时语音/视频 |
-| **[snakegpt.chat](https://snakegpt.chat)** | GPT-4, GPT-4o, MJ绘图 | 有           | ⭐⭐⭐⭐     | 长期运营，功能全面，集成绘图           |
+| **[snakegpt.com.cn](https://snakegpt.com.cn)** | GPT-4, GPT-4o, MJ绘图 | 有           | ⭐⭐⭐⭐     | 长期运营，功能全面，集成绘图           |
 | **[ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)** | GPT-4, GPT-3.5          | 有           | ⭐⭐⭐⭐     | 提供开发者 API                          |
 | **[gptdog.online](https://gptdog.online)** | GPT-3.5                 | 有           | ⭐⭐⭐      | 界面简洁，基础问答适用                 |
 
